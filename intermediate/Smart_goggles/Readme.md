@@ -33,3 +33,7 @@ The Ultrasonic Sensor measures distance by using sound waves. The sensor consist
 • The sensor measures the distance to the target by measuring the time taken between the transmission and reception.
 
 
+Software components : 
+
+Bluetooth client : Helps hardware connect app using bluetooth
+notifier : notifies if the connection is established or not
